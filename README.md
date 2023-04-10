@@ -1,2 +1,2 @@
 # HierarchicalBayesianEEGfMRI
-Stan code for manuscript - Estimation of fMRI Responses Related to Epileptic Discharges Using Bayesian Hierarchical Modeling
+Stan code for the manuscript - Estimation of fMRI Responses Related to Epileptic Discharges Using Bayesian Hierarchical Modeling
